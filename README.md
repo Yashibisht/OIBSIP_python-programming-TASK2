@@ -1,5 +1,4 @@
 # OIBSIP_python-programming-TASK2
-# OIBSIP_python-programming-TASK2
 # 🧮 BMI Calculator - Python Project
 
 ## 📝 Project Description
